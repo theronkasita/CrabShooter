@@ -1,0 +1,12 @@
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\bin\Debug\Math Shooter Game.exe.config
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\bin\Debug\Math Shooter Game.exe
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\bin\Debug\Math Shooter Game.pdb
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math Shooter Game.csproj.AssemblyReference.cache
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math Shooter Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math_Shooter_Game.Properties.Resources.resources
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math Shooter Game.csproj.GenerateResource.cache
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math Shooter Game.csproj.CoreCompileInputs.cache
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math Shooter Game.exe
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math Shooter Game.pdb
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math_Shooter_Game.exercisePanel.resources
+C:\Users\Theron Kazitas\source\repos\Math Shooter Game\obj\Debug\Math_Shooter_Game.gameWorldForm.resources
